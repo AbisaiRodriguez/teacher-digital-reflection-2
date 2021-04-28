@@ -30,8 +30,12 @@
                 >Growth & Development</NuxtLink
               ></b-dropdown-item
             >
-            <b-dropdown-item href="/impactOnStudentSuccess"
-              >Impact on Student Success</b-dropdown-item
+            <b-dropdown-item
+              ><NuxtLink
+                class="b-navbar b-navbar-link"
+                to="/impactOnStudentSuccess"
+                >Impact on Student Success</NuxtLink
+              ></b-dropdown-item
             >
           </b-nav-item-dropdown>
           <b-nav-item-dropdown text="Second Year" right>
