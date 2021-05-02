@@ -152,7 +152,12 @@
             </p>
           </div>
           <div class="text-center col">
-            <img class="img-fluid" src="~assets/imgs/couple.jpeg" alt="" />
+            <img
+              class="img-fluid"
+              style="max-width: 350px; max-height: 450px"
+              src="~assets/imgs/couple.jpeg"
+              alt=""
+            />
           </div>
         </div>
       </div>

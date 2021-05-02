@@ -2,37 +2,6 @@
   <div>
     <TheHeader />
     <div class="container custom-bg-color pt-3">
-      <!-- <div class="row pt-3">
-        <div class="col-lg-8">
-          <div class="text-center pb-3">
-            <h1 class="display-4">Mrs.Rodriguez</h1>
-            <h1 class="display-4">5th Grade Teacher</h1>
-          </div>
-
-          <div class="pt-4">
-            <div class="container" style="max-width: 320px; max-height: 314.75">
-              <img
-                class="portrait img-thumbnail"
-                src="~assets/imgs/elizabeth.jpeg"
-                alt=""
-                style="border-radius: 50%"
-              />
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 pt-3">
-          <div class="text-center">
-            <h1>Hi there!</h1>
-            <p>
-              My name is Elizabeth Murillo-Rodriguez. I'm a 5th grade teacher in
-              Perris Elementary School District. This is the school district I
-              grew up in! Yes, I am now colleagues with some of my former
-              teachers, which is really awesome! Thank you for stopping by.
-            </p>
-          </div>
-        </div>
-      </div> -->
-
       <div class="row pt-3">
         <div class="col-lg-4">
           <div class="container" style="max-width: 380px; max-height: 360.75">
@@ -52,9 +21,15 @@
             <h1>Hi there!</h1>
             <p>
               My name is Elizabeth Murillo-Rodriguez. I'm a 5th grade teacher in
-              Perris Elementary School District. This is the school district I
-              grew up in! Yes, I am now colleagues with some of my former
-              teachers, which is really awesome! Thank you for stopping by.
+              Perris Elementary School District. Being born and raised in
+              Perris, this is the school district I grew up in. After high
+              school, I moved away to San Diego for college and have lived in
+              the county ever since. When I got hired at PESD, I was so excited
+              to be a part of the district that educated me. In addition, I’m
+              also colleagues with some of my former teachers which is strange
+              but awesome. When I’m not teaching I enjoy relaxing while watching
+              TV, being outdoors, and spending time with my husband. Thank you
+              for stopping by.
             </p>
           </div>
         </div>
