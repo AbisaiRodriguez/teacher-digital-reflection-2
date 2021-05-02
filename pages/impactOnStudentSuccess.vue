@@ -17,7 +17,7 @@
     <div class="row">
         <div class="col-lg-6">
             <p>
-                The <span class="cstp" style="color: #9BD8FE;">BEST</span> strategy I implemented this year was focusing on <span class="cstp" style="color: #9BD8FE;">Student Centered Learning</span>. 
+                The <span class="cstp" style="color: #71C2B1;">BEST</span> strategy I implemented this year was focusing on <span class="cstp" style="color: #A6DCCF;">Student Centered Learning</span>. 
                 This type of learning really guided me in accomplishing my goal to engage students in their learning. Of course this is somewhat of an umbrella term, 
                 so I’ll list the most popular (by students) activities/strategies I used in my class that really impacted my students to succeed in their learning.
                 <div class="container">
@@ -33,7 +33,7 @@
                 </div>
                 
                 <div class="text-center">
-                    ** <span class="cstp" style="color: #9BD8FE; font-family: 'bbposturecheckmedium';">and others</span> **
+                    ** <span class="cstp" style="color: #A6DCCF; font-family: 'HelloAsparagus';">and others</span> **
                 </div>
             </p>
             
