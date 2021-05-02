@@ -1,7 +1,7 @@
 <template>
   <div>
       <TheHeader />
-      <div class="container bg-white">
+      <div class="container custom-bg-color">
     <div class="row pt-4">
       <div class="col-sm text-center">
         <h1 class="display-4 pb-5">Impact On Student Success</h1>

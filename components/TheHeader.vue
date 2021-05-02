@@ -39,8 +39,20 @@
             >
           </b-nav-item-dropdown>
           <b-nav-item-dropdown text="Second Year" right>
-            <b-dropdown-item href="#">Example1</b-dropdown-item>
-            <b-dropdown-item href="#">Example2</b-dropdown-item>
+            <b-dropdown-item
+              ><NuxtLink
+                class="b-navbar b-navbar-link"
+                to="/developingAsProEducator"
+                >Developing as a Professional Educator</NuxtLink
+              ></b-dropdown-item
+            >
+            <b-dropdown-item
+              ><NuxtLink
+                class="b-navbar b-navbar-link"
+                to="/contributingToTheProfession"
+                >Contributing to the Profession</NuxtLink
+              ></b-dropdown-item
+            >
           </b-nav-item-dropdown>
         </b-navbar-nav>
       </b-collapse>

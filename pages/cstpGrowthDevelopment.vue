@@ -1,12 +1,10 @@
 <template>
   <div>
     <TheHeader />
-    <div class="container bg-white">
+    <div class="container custom-bg-color">
       <div class="row pt-4">
         <div class="col-sm text-center">
-          <h1 class="display-4 pb-5" style="color: #2cbeb6">
-            CSTP Growth and Development
-          </h1>
+          <h1 class="display-4 pb-5">CSTP Growth and Development</h1>
         </div>
       </div>
       <div class="row">
@@ -16,7 +14,7 @@
       </div>
       <div class="row">
         <div class="col-sm text-center mx-auto pt-3" style="max-width: 780px">
-          <h1 style="color: #2cbeb6">
+          <h1>
             Professional Growth Goal<br /><span style="font-size: 2rem"
               >(Long Term Goal)</span
             >
@@ -25,15 +23,7 @@
       </div>
       <div class="row">
         <div class="col-sm pt-3">
-          <h1
-            style="
-              color: #2cbeb6;
-              font-size: 1.5rem;
-              -webkit-text-stroke: 1px black;
-            "
-          >
-            Time to Reflect on my Professional Growth
-          </h1>
+          <h1>Time to Reflect on my Professional Growth</h1>
           <p>
             If there’s something I’ve taken away from teaching it’s this:
             providing meaningful learning experiences to students that are

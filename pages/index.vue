@@ -1,8 +1,8 @@
 <template>
   <div>
     <TheHeader />
-    <div class="container bg-white pt-3">
-      <div class="row pt-3">
+    <div class="container custom-bg-color pt-3">
+      <!-- <div class="row pt-3">
         <div class="col-lg-8">
           <div class="text-center pb-3">
             <h1 class="display-4">Mrs.Rodriguez</h1>
@@ -10,19 +10,17 @@
           </div>
 
           <div class="pt-4">
-            <img class="img-fluid" src="~assets/imgs/classroom.png" alt="" />
+            <div class="container" style="max-width: 320px; max-height: 314.75">
+              <img
+                class="portrait img-thumbnail"
+                src="~assets/imgs/elizabeth.jpeg"
+                alt=""
+                style="border-radius: 50%"
+              />
+            </div>
           </div>
         </div>
         <div class="col-lg-4 pt-3">
-          <div class="container" style="max-width: 320px; max-height: 314.75">
-            <img
-              class="portrait img-thumbnail"
-              src="~assets/imgs/elizabeth.jpeg"
-              alt=""
-              style="border-radius: 50%"
-            />
-          </div>
-
           <div class="text-center">
             <h1>Hi there!</h1>
             <p>
@@ -31,6 +29,39 @@
               grew up in! Yes, I am now colleagues with some of my former
               teachers, which is really awesome! Thank you for stopping by.
             </p>
+          </div>
+        </div>
+      </div> -->
+
+      <div class="row pt-3">
+        <div class="col-lg-12">
+          <div class="text-center pb-3">
+            <h1 class="display-4">Mrs.Rodriguez</h1>
+            <h1 class="display-4">5th Grade Teacher</h1>
+          </div>
+        </div>
+      </div>
+      <div class="row pt-3">
+        <div class="col">
+          <div class="container" style="max-width: 320px; max-height: 314.75">
+            <img
+              class="portrait img-thumbnail"
+              src="~assets/imgs/elizabeth.jpeg"
+              alt=""
+              style="border-radius: 50%"
+            />
+          </div>
+          <div class="col">
+            <div class="text-center">
+              <h1>Hi there!</h1>
+              <p>
+                My name is Elizabeth Murillo-Rodriguez. I'm a 5th grade teacher
+                in Perris Elementary School District. This is the school
+                district I grew up in! Yes, I am now colleagues with some of my
+                former teachers, which is really awesome! Thank you for stopping
+                by.
+              </p>
+            </div>
           </div>
         </div>
       </div>

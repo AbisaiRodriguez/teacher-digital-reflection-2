@@ -1,0 +1,75 @@
+<template>
+  <div>
+    <TheHeader />
+    <div>
+      <div class="container custom-bg-color pt-3">
+        <div class="row pt-3">
+          <div class="col-lg-12">
+            <div class="text-center pb-3">
+              <h1 class="display-4">Developing as a Professional Developer</h1>
+            </div>
+          </div>
+        </div>
+        <div class="row pt-3">
+          <div class="col">
+            <div class="text-center">
+              <img class="img-fluid" src="~assets/imgs/progress.jpg" alt="" />
+            </div>
+            <div class="col">
+              <div class="text-center">
+                <h1>Hi there!</h1>
+                <p>
+                  My name is Elizabeth Murillo-Rodriguez. I'm a 5th grade
+                  teacher in Perris Elementary School District. This is the
+                  school district I grew up in! Yes, I am now colleagues with
+                  some of my former teachers, which is really awesome! Thank you
+                  for stopping by.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <hr />
+
+        <div class="row py-3">
+          <div class="text-center col-lg-6">
+            <h1>My Teaching Philosophy</h1>
+            <p>
+              As a teacher, I believe that all students have the right to learn
+              and reach their full potential, no matter what their circumstance
+              may be. I understand that all students are unique, and learn in
+              different ways. My goal will be to provide and nurture a learning
+              environment in which all students feel safe, cared for, and
+              challenged to always reach their full potential.<br />
+              In my classroom, I will always encourage students to share their
+              ideas and nurture a growth mindset. I will strive to remind
+              students that every time they try new and hard tasks, their brain
+              is growing. I will present students with a curriculum that
+              incorporates collaborative learning, hands on activities , and
+              technology. I will always try my best to differentiate
+              instructions to meet the needs of all my students, and incorporate
+              their interests into their learning for engagement. I believe that
+              all students have a right to learn , and have fun while they're
+              doing it.
+            </p>
+          </div>
+
+          <div class="py-5 col-lg-6">
+            <div class="text-center">
+              <h1>Why Do I Teach?</h1>
+            </div>
+            <div class="embed-responsive embed-responsive-16by9">
+              <iframe
+                class="embed-responsive-item"
+                src="https://www.powtoon.com/embed/dDvrbZYGpSD/"
+                allowfullscreen
+              ></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <TheFooter />
+  </div>
+</template>

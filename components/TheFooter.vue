@@ -4,9 +4,7 @@
     <!-- Copyright -->
     <div class="footer-copyright text-center py-3">
       © 2020 Copyright:
-      <NuxtLink to="/">
-        About (internal link that belongs to the Nuxt App)
-      </NuxtLink>
+      <NuxtLink to="/"> elizabethrodriguez.netlify.app </NuxtLink>
     </div>
     <!-- Copyright -->
   </footer>
