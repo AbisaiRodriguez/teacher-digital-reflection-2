@@ -132,7 +132,7 @@
           </div>
         </div>
         <div class="row py-3">
-          <div class="text-center col">
+          <div class="text-center col-lg-6">
             <h1>So you’re going to start teaching? Here’s my advice:</h1>
             <p>
               The most important piece of advice is to never give up! Teaching
@@ -150,6 +150,9 @@
               a completely work free weekend while still feeling ready for the
               new week.
             </p>
+          </div>
+          <div class="text-center col">
+            <img class="img-fluid" src="~assets/imgs/couple.jpeg" alt="" />
           </div>
         </div>
       </div>
