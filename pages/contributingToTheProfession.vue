@@ -11,7 +11,19 @@
         <div class="row py-3">
           <div class="text-center col">
             <h1>The tools I CAN NOT live without!</h1>
-            <img class="img-fluid" src="~assets/imgs/jamboard.png" alt="" />
+            <div class="row py-3">
+              <div class="col-lg-6">
+                <img
+                  class="img-fluid py-5"
+                  src="~assets/imgs/jamboard.png"
+                  alt=""
+                />
+              </div>
+              <div class="col">
+                <img class="img-fluid" src="~assets/imgs/jam.png" alt="" />
+              </div>
+            </div>
+
             <p>
               Jamboard- If there is one thing I can thank virtual learning for,
               it's definitely learning how to incorporate jamboards into almost
@@ -28,7 +40,23 @@
         </div>
         <div class="row py-3">
           <div class="text-center col">
-            <img class="img-fluid" src="~assets/imgs/googleslides.png" alt="" />
+            <div class="row py-3">
+              <div class="col-lg-6">
+                <img
+                  class="img-fluid"
+                  src="~assets/imgs/googleslides.png"
+                  alt=""
+                />
+              </div>
+              <div class="col">
+                <img
+                  class="img-fluid"
+                  src="~assets/imgs/googleclass.png"
+                  alt=""
+                />
+              </div>
+            </div>
+
             <p>
               Google Slides- Here is another tool I would not have survived
               virtual learning without. In fact, I created a virtual classroom

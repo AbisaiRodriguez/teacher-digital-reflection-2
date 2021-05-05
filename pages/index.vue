@@ -25,11 +25,11 @@
               Perris, this is the school district I grew up in. After high
               school, I moved away to San Diego for college and have lived in
               the county ever since. When I got hired at PESD, I was so excited
-              to be a part of the district that educated me. In addition, I’m
-              also colleagues with some of my former teachers which is strange
-              but awesome. When I’m not teaching I enjoy relaxing while watching
-              TV, being outdoors, and spending time with my husband. Thank you
-              for stopping by.
+              to be a part of the district that I grew up in. In addition, I am
+              colleagues with some of my former teachers, which is strange but
+              awesome. When I’m not teaching I enjoy relaxing while watching TV,
+              being outdoors, and spending time with my husband. Thank you for
+              stopping by.
             </p>
           </div>
         </div>
