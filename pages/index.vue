@@ -14,7 +14,7 @@
         </div>
         <div class="col">
           <div class="text-center pb-3 pt-4">
-            <h1 class="display-4">Mrs.Rodriguez</h1>
+            <h1 class="display-4">Mrs. Rodriguez</h1>
             <h1 class="display-4">5th Grade Teacher</h1>
           </div>
           <div class="text-center pt-2">
