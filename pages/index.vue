@@ -59,7 +59,16 @@
           </p>
         </div>
 
-        <div class="py-5 col-lg-6">
+        <div class="py-3 col-lg-6">
+          <div class="text-center">
+            <h1>Flip Grid Link:</h1>
+            <div class="pb-2">
+              <b-link href="https://flipgrid.com/s/tTzhtcK4mrzC"
+                >https://flipgrid.com/s/tTzhtcK4mrzC</b-link
+              >
+            </div>
+          </div>
+
           <div class="text-center">
             <h1>Why Do I Teach?</h1>
           </div>
